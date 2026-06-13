@@ -23,16 +23,6 @@ pipinstallpandasnumpymatplotlib
 Place the dataset file:
 network_traffic.csv
 in the same folder as the Jupyter Notebook.
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## 1
 
 How to Run
 ## Step 1
@@ -61,26 +51,9 @@ Genetic Algorithm fitness values
 ## Task 2: Simple Reflex Agent
 Task 3A: K-Nearest Neighbors (KNN)
 Task 3B: Naive Bayes
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## •
-## 2
+
 
 24P-0669 Saad Ahmed Ijaz
 Task 3C: Logistic Regression
 Task 4: K-Means Clustering
 ## Task 5: Genetic Algorithm
-## •
-## •
-## •
-## 3
